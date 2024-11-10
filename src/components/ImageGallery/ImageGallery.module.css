@@ -1,0 +1,7 @@
+.gallery {
+	position: relative;
+	top: 0px;
+  display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+}

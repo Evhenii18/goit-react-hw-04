@@ -1,0 +1,21 @@
+.searchBar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 999;
+  display: flex;
+	width: 100%;
+  justify-content: center;
+  padding: 5px;
+	background-color: #164cfc;
+}
+
+form {
+  display: flex;
+	
+}
+
+input {
+  width: 400px;
+  padding: 8px;
+}
